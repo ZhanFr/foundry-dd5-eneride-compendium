@@ -1,49 +1,49 @@
 {
-	"name": "EnerideFoundryCompendium",
-	"title": "Eneride Compendium",
-	"description": "A module that adds Eneride homebrewed content for dnd5e games. Classes, subclasses, races, spells, items, etc.",
-	"author": "Zhan",
-	"version": "0.1.0",
-	"minimumCoreVersion": "0.7.9",
-	"compatibleCoreVersion": "0.7.9",
-	"url": "https://github.com/ZhanFr/foundry-eneride-compendium",
-	"download": "https://github.com/ZhanFr/foundry-eneride-compendium/archive/main.zip",
+    "name": "EnerideFoundryCompendium",
+    "title": "Eneride Compendium",
+    "description": "A module that adds Eneride homebrewed content for dnd5e games. Classes, subclasses, races, spells, items, etc.",
+    "author": "Zhan",
+    "version": "0.1.0",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+    "url": "https://github.com/ZhanFr/foundry-eneride-compendium",
+    "download": "https://github.com/ZhanFr/foundry-eneride-compendium/archive/main.zip",
     "system": "dnd5e",
-	"manifest": "https://raw.githubusercontent.com/ZhanFr/foundry-eneride-compendium/main/module.json",
-	"readme": "https://github.com/ZhanFr/foundry-eneride-compendium/blob/main/README.md",
-	"changelog": "https://github.com/ZhanFr/foundry-eneride-compendium/blob/main/CHANGELOG.md",
-	"packs": [
+    "manifest": "https://raw.githubusercontent.com/ZhanFr/foundry-eneride-compendium/main/module.json",
+    "readme": "https://github.com/ZhanFr/foundry-eneride-compendium/blob/main/README.md",
+    "changelog": "https://github.com/ZhanFr/foundry-eneride-compendium/blob/main/CHANGELOG.md",
+    "packs": [
         {
-			"name": "items-speciaux-eneride",
-			"label": "Items spéciaux (Eneride)",
-			"path": "packs/items-speciaux-eneride.db",
+            "name": "items-speciaux-eneride",
+            "label": "Items spéciaux (Eneride)",
+            "path": "packs/items-speciaux-eneride.db",
             "entity": "Item",
             "system": "dnd5e",
-			"module": "EnerideFoundryCompendium"
+            "module": "EnerideFoundryCompendium"
         },
-		{
-			"name": "sorts-eneride",
-			"label": "Sorts (Eneride)",
-			"path": "packs/sorts-eneride.db",
+        {
+            "name": "sorts-eneride",
+            "label": "Sorts (Eneride)",
+            "path": "packs/sorts-eneride.db",
             "entity": "Item",
             "system": "dnd5e",
-			"module": "EnerideFoundryCompendium"
-		},
-		{
-			"label": "Classes (Eneride)",
+            "module": "EnerideFoundryCompendium"
+        },
+        {
+            "label": "Classes (Eneride)",
             "name": "classes-eneride",
             "path": "packs/classes-eneride.db",
             "entity": "Item",
             "system": "dnd5e",
-			"module": "EnerideFoundryCompendium"
-		},
-		{
-			"name": "capacites-des-classes-eneride",
-			"label": "Capacités des classes (Eneride)",
-			"path": "packs/capacites-des-classes-eneride.db",
+            "module": "EnerideFoundryCompendium"
+        },
+        {
+            "name": "capacites-des-classes-eneride",
+            "label": "Capacités des classes (Eneride)",
+            "path": "packs/capacites-des-classes-eneride.db",
             "entity": "Item",
             "system": "dnd5e",
-			"module": "EnerideFoundryCompendium"
-		}
-	]
+            "module": "EnerideFoundryCompendium"
+        }
+    ]
 }
