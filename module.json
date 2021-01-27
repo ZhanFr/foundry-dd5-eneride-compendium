@@ -3,7 +3,7 @@
     "title": "Eneride Compendium",
     "description": "A module that adds Eneride homebrewed content for dnd5e games. Classes, subclasses, races, spells, items, etc.",
     "author": "Zhan",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion": "0.7.9",
     "url": "https://github.com/ZhanFr/foundry-eneride-compendium",

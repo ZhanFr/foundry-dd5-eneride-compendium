@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.2
+- Correction des liens de compendium
+
 ## 0.1.1
 - Ajout de la capacité *Frappe Précise* avec effet dédié à la classe de Prestidigitateur.
 
