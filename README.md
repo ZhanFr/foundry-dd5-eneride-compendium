@@ -1,6 +1,6 @@
 # foundry-eneride-compendium
 * Auteur: ZhanFr
-* Version: 0.1.0
+* Version: 0.1.1
 * Foundry VTT : 0.7.9
 * Système : D&D 5th Edition 1.2.1
 
