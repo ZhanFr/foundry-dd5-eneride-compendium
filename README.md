@@ -1,4 +1,4 @@
-# foundry-eneride-compendium
+# foundry-dd5-eneride-compendium
 * Auteur: ZhanFr
 * Version: 0.1.2
 * Foundry VTT : 0.7.9
@@ -12,7 +12,7 @@ Ce module contient les éléments de compendium (classes, capacités, sorts, etc
 * Ouvrir l'application Foundry VTT.
 * Aller dans l'onglet "Add-On Modules".
 * Cliquer sur le bouton "Install Module".
-* Coller le lien suivant : https://raw.githubusercontent.com/ZhanFr/foundry-eneride-compendium/main/module.json
+* Coller le lien suivant : https://raw.githubusercontent.com/ZhanFr/foundry-dd5-eneride-compendium/main/module.json
 * Cliquer sur "Install"
 * Activer le module dans le monde de votre choix.
 
